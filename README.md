@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,nodejs,tailwind,bootstrap,chakraui,shadcn,vscode,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,nodejs,tailwind,bootstrap,vscode,git,github,gitlab" />
 </p>
 
 ---
