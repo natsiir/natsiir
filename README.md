@@ -39,7 +39,7 @@
 
 ### ✨ Quote that keeps me going
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> Kalo hidupmu berantakan, coba yarn install chill --save
 
 ---
 
